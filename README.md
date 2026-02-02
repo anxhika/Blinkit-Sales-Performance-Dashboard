@@ -36,7 +36,7 @@ The dashboard is designed to give quick business insights using interactive visu
 ![Overall Dashboard](dashboard1.png)
 
 ### 🔹 Sales by Outlet Location
-![Outlet Location](screenshots/outlet_location.png)
+![Outlet Location](outletLocation.png)
 
 ### 🔹 sales by outlet type
 ![Item Type](screenshots/item_type.png)
