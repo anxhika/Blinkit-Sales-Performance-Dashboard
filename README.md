@@ -33,7 +33,7 @@ The dashboard is designed to give quick business insights using interactive visu
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Overall Dashboard View
-![Overall Dashboard](screenshots/dashboard.png)
+![Overall Dashboard](dashboard1.png)
 
 ### 🔹 Sales by Outlet Location
 ![Outlet Location](screenshots/outlet_location.png)
